@@ -42,3 +42,4 @@ lambda
 
 // other parameters of json stringify are very important
 //JSON.stringify(event, null, 2);
+
